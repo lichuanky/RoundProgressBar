@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_border_width">2dip</dimen>
+    <color name="default_internal_color">#00000000</color>
+    <color name="default_external_color">#0dffffff</color>
+    <color name="default_progress_color">#ffea2e49</color>
+    <integer name="default_max">1000</integer>
+    <drawable name="default_progress_icon">@drawable/progress_icon</drawable>
+    <integer name="default_duration">180000</integer>
+</resources>

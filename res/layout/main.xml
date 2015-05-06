@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/cn.welk.demo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <cn.welk.demo.view.RoundProgressBar
+        android:id="@+id/round_progress"
+        android:layout_width="320dip"
+        android:layout_height="320dip"
+        android:layout_centerInParent="true"
+        app:progress_icon="@drawable/progress_icon"
+        app:internal_color="@android:color/tertiary_text_light"
+        app:border_width="8dip"/>
+</RelativeLayout>
+
